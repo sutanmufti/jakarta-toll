@@ -2,4 +2,4 @@
 
 aplikasi jarak 15 menit ke pintu tol terdekat.
 
-visit [tol.ceritapeta.co.uk](https://ceritapeta.co.uk).
+visit [toll.ceritapeta.co.uk](https://toll.ceritapeta.co.uk)
